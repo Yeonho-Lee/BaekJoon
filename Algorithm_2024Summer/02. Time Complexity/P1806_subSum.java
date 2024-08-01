@@ -6,7 +6,6 @@ import java.io.OutputStreamWriter;
 public class P1806_subSum {
     static int[] numbers;
 	public static void main(String[] args) throws Exception {
-		// TODO Auto-generated method stub
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
