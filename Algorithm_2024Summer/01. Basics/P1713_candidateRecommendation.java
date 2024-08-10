@@ -6,7 +6,6 @@ import java.util.Arrays;
 
 public class P1713_candidateRecommendation {
 	
-	static int[] votes = new int [101];
 	static PhotoFrame[] PhotoFrames;
 	static PhotoFrame[] students = new PhotoFrame[101];
 	
